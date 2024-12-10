@@ -1,0 +1,2 @@
+startRoom|hallway|north
+hallway|treasureRoom|north

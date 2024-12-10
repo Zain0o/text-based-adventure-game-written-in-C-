@@ -1,0 +1,9 @@
+# ninja log v5
+7	364	7555424876714021	CMakeFiles/lab4.dir/Item.cpp.obj	90d351a8c4409bd1
+10	433	7555424877413997	CMakeFiles/lab4.dir/Character.cpp.obj	a53401d9f112cec6
+21	533	7555424878414033	CMakeFiles/lab4.dir/GameSaverLoader.cpp.obj	e6e50e68c0306c7
+13	545	7555424878534005	CMakeFiles/lab4.dir/Player.cpp.obj	f1beeec0ff43619f
+15	559	7555424878674015	CMakeFiles/lab4.dir/Area.cpp.obj	4d4c92426c4eded3
+5	625	7555424879314013	CMakeFiles/lab4.dir/Room.cpp.obj	a386e198622d0d4c
+2	637	7555424879454001	CMakeFiles/lab4.dir/main.cpp.obj	77fa3aff4803e47c
+638	749	7555424880554000	lab4.exe	ac557b140ea74883
